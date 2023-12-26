@@ -1,16 +1,19 @@
 
-# Brightlystake Namada Contriutions
+# Brightlystake Namada Contributions
 
-We were selected as a communited builder in the Namada's RPGF program and helped the community with technical challenges faced by validators
+We were selected as a communited builder in the Namada's RPGF program and helped the community with technical challenges faced by validators.
 We were also validators for about 10 different testnet's of Namada
 
 ## Youtube video
+
 https://youtu.be/75w-Xjs6AuM
 
 ## Twitter thread
+
 https://twitter.com/brightlystake/status/1726704500029988926?t=ETjRmkBlLNRNeIB7kdVEBA&s=19
 
 ## Snapshots
+
 Testenet 14
 We have added a snapshot for the testnet 14.5 for someone who wants to revive 
 https://snapshot.brightlystake.com/namada_14.5_231102.tar.lz4
