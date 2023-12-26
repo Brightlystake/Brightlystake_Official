@@ -19,24 +19,25 @@ Testnet 15
 https://snapshot.brightlystake.com/namada
 
 ## Testnet PR's by Brightlystake in Namada
-Testnet 6 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-6/validator.toml
-Testnet 7 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-7/validator.toml
-Testnet 8 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/validator.toml
-Testnet 9 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/validator.toml
-Testnet 10 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-10/validator.toml
-Testnet 11 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-11/Brightlystake.toml
-Testnet 12 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-12/Brightlystake.toml
-Testnet 13 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-13/Brightlystake.toml
-Testnet 14 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-14/Brightlystake.toml
-Testnet 15 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-15/Brightlystake.toml
-Testnet 6 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-6/validator.toml
-Testnet 7 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-7/validator.toml
-Testnet 8 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/validator.toml
-Testnet 9 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/validator.toml
-Testnet 10 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-10/validator.toml
-Testnet 11 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-11/Brightlystake.toml
-Testnet 12 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-12/Brightlystake.toml
-Testnet 13 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-13/Brightlystake.toml
-Testnet 14 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-14/Brightlystake.toml
-Testnet 15 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-15/Brightlystake.toml
+
+Testnet 6 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-6/validator.toml 
+Testnet 7 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-7/validator.toml 
+Testnet 8 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/validator.toml 
+Testnet 9 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/validator.toml 
+Testnet 10 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-10/validator.toml 
+Testnet 11 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-11/Brightlystake.toml 
+Testnet 12 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-12/Brightlystake.toml 
+Testnet 13 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-13/Brightlystake.toml 
+Testnet 14 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-14/Brightlystake.toml 
+Testnet 15 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-15/Brightlystake.toml 
+Testnet 6 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-6/validator.toml 
+Testnet 7 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-7/validator.toml 
+Testnet 8 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/validator.toml 
+Testnet 9 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/validator.toml 
+Testnet 10 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-10/validator.toml 
+Testnet 11 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-11/Brightlystake.toml 
+Testnet 12 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-12/Brightlystake.toml 
+Testnet 13 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-13/Brightlystake.toml 
+Testnet 14 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-14/Brightlystake.toml 
+Testnet 15 : https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-15/Brightlystake.toml 
 
